@@ -1,0 +1,29 @@
+{
+  "name": "svmic",
+  "version": "1.0.0",
+  "description": "svmic",
+  "main": "index.html",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nope"
+  },
+  "keywords": [
+    "insurance"
+  ],
+  "author": "eric motil",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-nunjucks-render": "^1.0.0",
+    "gulp-sass": "^2.1.0",
+    "imagemin-pngquant": "^4.2.0",
+    "sassdoc": "^2.1.15"
+  }
+}
