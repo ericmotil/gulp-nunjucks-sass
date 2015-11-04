@@ -24,12 +24,7 @@ Gulp tasks used:
 npm install
 ```
 
-3) Install bower components
-```
-bower install
-```
-
-$) Run Gulp
+3) Run Gulp
 ```
 gulp
 ```
