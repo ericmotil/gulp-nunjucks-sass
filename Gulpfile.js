@@ -147,4 +147,4 @@ gulp.task('browser-sync', function() {
 // Default task
 // -----------------------------------------------------------------------------
 
-gulp.task('default', ['sass', 'nunjucks', 'scripts', 'img', 'watch', 'browser-sync']);
+gulp.task('default', ['sass', 'nunjucks', 'img', 'scripts', 'watch', 'browser-sync']);
